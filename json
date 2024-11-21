@@ -1,1 +1,119 @@
-{"cities":[["Karaman"],["Mersin"],["Adana"],["Kayseri"],["Osmaniye"],["Kahramanmara\u015f"],[null],["G\u00fcm\u00fc\u015fhane"],["Ordu"],["Van"],["Antalya"],["Yozgat"],["Sakarya"],["Hatay"],["Bart\u0131n"],["Ankara"],["\u00c7anakkale"],["Bal\u0131kesir"],["Bursa"],["Afyonkarahisar"],["Denizli"],["Burdur"],["Isparta"],["Eski\u015fehir"],["D\u00fczce"],["Bolu"],["Giresun"],["Samsun"],["Tokat"],["K\u0131r\u015fehir"],["K\u0131r\u0131kkale"],["\u00c7orum"],["Sivas"],["Yalova"],["Sinop"],["\u00c7ank\u0131r\u0131"],["Istanbul"],["Izmir"],["Nev\u015fehir"]]}
+[
+  {
+    "city": "Karaman"
+  },
+  {
+    "city": "Mersin"
+  },
+  {
+    "city": "Adana"
+  },
+  {
+    "city": "Kayseri"
+  },
+  {
+    "city": "Osmaniye"
+  },
+  {
+    "city": "Kahramanmaraş"
+  },
+  {
+    "city": null
+  },
+  {
+    "city": "Gümüşhane"
+  },
+  {
+    "city": "Ordu"
+  },
+  {
+    "city": "Van"
+  },
+  {
+    "city": "Antalya"
+  },
+  {
+    "city": "Yozgat"
+  },
+  {
+    "city": "Sakarya"
+  },
+  {
+    "city": "Hatay"
+  },
+  {
+    "city": "Bartın"
+  },
+  {
+    "city": "Ankara"
+  },
+  {
+    "city": "Çanakkale"
+  },
+  {
+    "city": "Balıkesir"
+  },
+  {
+    "city": "Bursa"
+  },
+  {
+    "city": "Afyonkarahisar"
+  },
+  {
+    "city": "Denizli"
+  },
+  {
+    "city": "Burdur"
+  },
+  {
+    "city": "Isparta"
+  },
+  {
+    "city": "Eskişehir"
+  },
+  {
+    "city": "Düzce"
+  },
+  {
+    "city": "Bolu"
+  },
+  {
+    "city": "Giresun"
+  },
+  {
+    "city": "Samsun"
+  },
+  {
+    "city": "Tokat"
+  },
+  {
+    "city": "Kırşehir"
+  },
+  {
+    "city": "Kırıkkale"
+  },
+  {
+    "city": "Çorum"
+  },
+  {
+    "city": "Sivas"
+  },
+  {
+    "city": "Yalova"
+  },
+  {
+    "city": "Sinop"
+  },
+  {
+    "city": "Çankırı"
+  },
+  {
+    "city": "Istanbul"
+  },
+  {
+    "city": "Izmir"
+  },
+  {
+    "city": "Nevşehir"
+  }
+]
